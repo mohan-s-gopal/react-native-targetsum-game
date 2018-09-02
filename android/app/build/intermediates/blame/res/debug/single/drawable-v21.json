@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/mohan-s-gopal/workspace/TargetSum/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/mohan-s-gopal/.android/build-cache/63a4b7f5999fe455f0947c21bffd63a16471b6e5/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/mohan-s-gopal/workspace/TargetSum/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/mohan-s-gopal/.android/build-cache/eba5e3bde3faf407c1b4bd13fdad7ec4caee9d61/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/mohan-s-gopal/workspace/TargetSum/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/mohan-s-gopal/.android/build-cache/63a4b7f5999fe455f0947c21bffd63a16471b6e5/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/mohan-s-gopal/workspace/TargetSum/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/mohan-s-gopal/.android/build-cache/63a4b7f5999fe455f0947c21bffd63a16471b6e5/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

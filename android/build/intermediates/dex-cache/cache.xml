@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/mohan-s-gopal/.android/build-cache/7c3acf30c48bcdff087029ce3ffd4358e6f4d16c/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/mohan-s-gopal/workspace/TargetSum/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_0247bbb16ae6bab5a979e680729516af598c5359.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohan-s-gopal/.android/build-cache/7c3acf30c48bcdff087029ce3ffd4358e6f4d16c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/home/mohan-s-gopal/workspace/TargetSum/android/app/build/intermediates/pre-dexed/debug/classes_d65bfa76ed974cc2c8c875fd673f49af481d3d75.jar" />
+    </item>
+
+</items>

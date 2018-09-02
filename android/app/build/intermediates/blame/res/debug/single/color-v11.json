@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mohan-s-gopal/workspace/TargetSum/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/mohan-s-gopal/.android/build-cache/63a4b7f5999fe455f0947c21bffd63a16471b6e5/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/mohan-s-gopal/workspace/TargetSum/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/mohan-s-gopal/.android/build-cache/63a4b7f5999fe455f0947c21bffd63a16471b6e5/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
